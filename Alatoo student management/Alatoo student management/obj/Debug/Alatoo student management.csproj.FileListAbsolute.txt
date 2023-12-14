@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Alatoo student management\Alatoo student management\obj\Debug\Alatoo student management.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Alatoo student management\Alatoo student management\obj\Debug\Alatoo_student_management.Form1.resources
+C:\Users\user\source\repos\Alatoo student management\Alatoo student management\obj\Debug\Alatoo_student_management.Properties.Resources.resources
+C:\Users\user\source\repos\Alatoo student management\Alatoo student management\obj\Debug\Alatoo student management.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Alatoo student management\Alatoo student management\obj\Debug\Alatoo student management.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Alatoo student management\Alatoo student management\bin\Debug\Alatoo student management.exe.config
+C:\Users\user\source\repos\Alatoo student management\Alatoo student management\bin\Debug\Alatoo student management.exe
+C:\Users\user\source\repos\Alatoo student management\Alatoo student management\bin\Debug\Alatoo student management.pdb
+C:\Users\user\source\repos\Alatoo student management\Alatoo student management\obj\Debug\Alatoo student management.exe
+C:\Users\user\source\repos\Alatoo student management\Alatoo student management\obj\Debug\Alatoo student management.pdb
