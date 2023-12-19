@@ -56,7 +56,7 @@ namespace Alatoo_student_management
             conn.Open(); 
             SqlCommand cmd = conn.CreateCommand();
         cmd.CommandType = CommandType.Text; 
-            cmd.CommandText = "select * from teacher"; 
+            cmd.CommandText = "select * from student"; 
             cmd.ExecuteNonQuery(); 
             DataTable dt = new DataTable();
         SqlDataAdapter da = new SqlDataAdapter(cmd);
