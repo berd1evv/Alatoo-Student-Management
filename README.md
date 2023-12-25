@@ -1,6 +1,8 @@
 First we need to download the microsoft sql server management studio
 And then create database university
 ------
+![calc](https://github.com/berd1evv/Alatoo-Student-Management/blob/master/image.jpg?raw=true)
+------
 create database university;
 use university
 create table student(id int, Name varchar(50), Surname varchar(50),grade int);
